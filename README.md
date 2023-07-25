@@ -7,7 +7,8 @@ Dependencies required to run code files:
 
 - matplotlib.pyploy
 - pandas
-- numpy requests
+- numpy
+- requests
 - time
 - scipy
 - citipy
